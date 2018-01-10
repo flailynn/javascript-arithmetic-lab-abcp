@@ -21,3 +21,7 @@ function inc(num) {
 function dec(num) {
   return --num;
 }
+
+function () {
+  
+}
